@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Elements>
+<DIAGRAM>
+	<VEModelDiagram.BackgroundGridLinesOption>false</VEModelDiagram.BackgroundGridLinesOption>
+	<VEModelDiagram.BackgroundImageOption></VEModelDiagram.BackgroundImageOption>
+	<VEModelDiagram.BackgroundImageStretchOption>true</VEModelDiagram.BackgroundImageStretchOption>
+</DIAGRAM>
+<METER>
+	<VEModelChildElement.LocationX>408</VEModelChildElement.LocationX>
+	<VEModelChildElement.LocationY>40</VEModelChildElement.LocationY>
+	<VEModelChildElement.SizeCX>261</VEModelChildElement.SizeCX>
+	<VEModelChildElement.SizeCY>176</VEModelChildElement.SizeCY>
+	<VEModelChildElement.expressionTitleVisible>true</VEModelChildElement.expressionTitleVisible>
+	<VEModelChildElement.minRange>0.0</VEModelChildElement.minRange>
+	<VEModelChildElement.maxRange>3500.0</VEModelChildElement.maxRange>
+	<VEModelChildElement.expressionName>RPM</VEModelChildElement.expressionName>
+	<VEModelChildElement.expressionUpdatesDisabled>false</VEModelChildElement.expressionUpdatesDisabled>
+	<VEModelChildElement.foregroundColor>16777215</VEModelChildElement.foregroundColor>
+	<VEModelChildElement.backgroundColor>0</VEModelChildElement.backgroundColor>
+</METER>
+<METER>
+	<VEModelChildElement.LocationX>115</VEModelChildElement.LocationX>
+	<VEModelChildElement.LocationY>47</VEModelChildElement.LocationY>
+	<VEModelChildElement.SizeCX>231</VEModelChildElement.SizeCX>
+	<VEModelChildElement.SizeCY>181</VEModelChildElement.SizeCY>
+	<VEModelChildElement.expressionTitleVisible>true</VEModelChildElement.expressionTitleVisible>
+	<VEModelChildElement.minRange>0.0</VEModelChildElement.minRange>
+	<VEModelChildElement.maxRange>3300.0</VEModelChildElement.maxRange>
+	<VEModelChildElement.expressionName>SETPOINT</VEModelChildElement.expressionName>
+	<VEModelChildElement.expressionUpdatesDisabled>false</VEModelChildElement.expressionUpdatesDisabled>
+	<VEModelChildElement.foregroundColor>16777215</VEModelChildElement.foregroundColor>
+	<VEModelChildElement.backgroundColor>0</VEModelChildElement.backgroundColor>
+</METER>
+</Elements>
